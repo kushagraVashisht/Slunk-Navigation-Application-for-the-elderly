@@ -1,4 +1,4 @@
-# COMP30022-Brazil - Slunk
+#  Slunk
 ## Project Description
 
 The deliverable for this project will be a smartphone application, targeted at android users. The application will allow cared-for users to navigate outside independently, using the map, or with the help of a carer.
