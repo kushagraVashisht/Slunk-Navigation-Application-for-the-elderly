@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name = "mapboxWhite">#ffffff</color>
+    <color name = "mapboxBlue">#4264fb</color>
+    <color name = "mapboxGrayLight">#c6d2e1</color>
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+
+    <color name="slunk_purple">#654dff</color>
+    <color name="slunk_red">#D0021B</color>
+
+
+    <color name="materialGrey">#f5f5f5</color>
+    <color name="materialDarkGrey">#DFDFDF</color>
+
+    <color name="mapboxYellow">#d9d838</color>
+    <color name="mapboxCyan">#3BB2D0</color>
+    <color name="mapboxGreen">#56B881</color>
+    <color name="mapboxBlueDark">#1F6EA5</color>
+    <color name="mapboxPurple">#8A8ACB</color>
+    <color name="mapboxPurpleDark">#7171b2</color>
+    <color name="mapboxPurpleLight">#A4A4E5</color>
+
+    <color name="mapboxDenim">#50667F</color>
+    <color name="mapboxTeal">#41AFA5</color>
+    <color name="mapboxOrange">#F9886C</color>
+    <color name="mapboxRed">#E55E5E</color>
+    <color name="mapboxPink">#ED6498</color>
+    <color name="mapboxMustard">#FBB03B</color>
+    <color name="mapboxNavy">#28353D</color>
+    <color name="mapboxNavyDark">#222B30</color>
+
+    <color name="white">#ffffff</color>
+    <color name="grey">#EEEEEE</color>
+    <color name="blue">#2196F3</color>
+    <color name="yellow">#ffc107</color>
+    <color name="yellow_300">#FFD54F</color>
+    <color name="black_semi_transparent">#B2000000</color>
+
+
+</resources>

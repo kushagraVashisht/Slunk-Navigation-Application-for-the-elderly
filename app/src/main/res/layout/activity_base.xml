@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@android:color/holo_green_dark"
+    android:onClick="openCallScreen">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/ongoingCallToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_green_dark"
+        android:theme="?attr/actionBarTheme"
+        android:visibility="visible"
+        app:title="Ongoing Call   -   Tap to Return" />
+</FrameLayout>

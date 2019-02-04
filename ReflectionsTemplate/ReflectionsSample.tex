@@ -1,0 +1,56 @@
+\documentclass[a4paper, 12pt, twoside]{article}
+
+% Package Settings
+
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{titling}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{titlesec}
+\usepackage{multicol}
+\usepackage{lastpage}
+
+\setlength{\headheight}{28pt} 
+\setlength{\columnsep}{1cm}
+\setlength{\columnseprule}{0.1pt}
+
+
+% NAME THE FINAL PDF: COMP30022_Reflections_Brazil_<Student id>.pdf
+
+\title{IT Project \\ Reflections}
+\author{Ujashkumar Patel}
+\date{\today}
+
+% Page Style
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0.1pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+    \fancyhead[C,C]{\large IT Project Reflections}
+    \fancyhead[LO,RE]{Team Brazil - Slunk}
+    \fancyfoot[LE,RO]{Name: \theauthor \\ StuID: 848395}
+}
+
+\titleformat{\subsection}{}{\textbf{\alph{subsection}) }}{0em}{\textbf}
+\titleformat{\subsubsection}{}{\hspace{2em}\alph{subsection}.\arabic{subsubsection} - }{0em}{\textit}
+
+\begin{document}
+\pagestyle{plain}
+
+\section{General Thoughts}
+ \subsection{Shortcomings}
+ \subsection{How Things Could Be Improved}
+ \subsection{What you think you could have done differently}
+ \subsection{Promote the work itself}
+
+\section{Team Thoughts}
+\subsection{Me}
+\subsection{Josh}
+\subsection{Sam}
+\subsection{Ninad}
+\subsection{Kush}
+
+\end{document}

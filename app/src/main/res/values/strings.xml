@@ -1,0 +1,159 @@
+<resources>
+    <string name="access_token" translatable="false">pk.eyJ1Ijoia3VzaGFncmF2YXNoaXNodCIsImEiOiJjam4ydWQwaTkwOG1hM3ZwaTh1MW03cTBwIn0.TfAH1A2i1QI_nOWDfaWm-w</string>
+
+    <string name="app_name">Slunk</string>
+    <string name="title_activity_fullscreen">VideoCallScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="end">end</string>
+    <string name="connect">connect</string>
+    <string name="messenger_button">Messenger</string>
+    <string name="msg_hint">What would you like to say?</string>
+    <string name="msg_acc_hint">What would you like to say?</string>
+    <string name="open_calendar">Go to Calendar</string>
+
+
+    <string name="start_navigating">Start Navigating</string>
+    <string name="detailed_description_place_picker">Example shows how to launch the Place Picker using the Floating action button and receiving a result in onActivityResult.</string>
+    <string name="search_mapbox">Search Mapbox</string>
+    <string name="location">Location</string>
+    <string name="map_style">Map Style</string>
+
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+
+    <string name="label_facebook_login">Firebase + Facebook Login</string>
+    <string name="desc_facebook_login">Use a Facebook Login credential to authenticate with Firebase.</string>
+
+    <string name="label_twitter_login">Firebase + Twitter Login</string>
+    <string name="desc_twitter_login">Use a Twitter Login credential to authenticate with Firebase.</string>
+
+    <string name="label_emailpassword">Email/Password Authentication</string>
+    <string name="desc_emailpassword">Use an email and password to authenticate with Firebase.</string>
+
+    <string name="label_phone_auth">Phone Number Authentication</string>
+    <string name="desc_phone_auth">Use a phone number to authenticate with Firebase.</string>
+
+    <string name="label_anonymous_auth">Anonymous Authentication</string>
+    <string name="desc_anonymous_auth">Sign in anonymously and then later upgrade to a full Firebase Auth user.</string>
+
+    <string name="label_custom_auth">Custom Authentication</string>
+    <string name="desc_custom_auth">Use a custom token signed by your own server to authenticate with Firebase.</string>
+
+    <string name="label_firebase_ui">FirebaseUI Auth</string>
+    <string name="desc_firebase_ui">Use the FirebaseUI-Android library to authenticate with Firebase.</string>
+    <string name="Calendar_Tag">Calendar</string>
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="status_verification_failed">Verification failed</string>
+    <string name="status_verification_succeeded">Verification succeeded</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="instant_validation">(instant validation)</string>
+
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="facebook_title_text">Facebook Login</string>
+
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+
+    <string name="phone_title_text">Phone Number</string>
+
+    <string name="twitter_status_fmt">Twitter User: %s</string>
+    <string name="twitter_title_text">Twitter Login</string>
+
+    <string name="firebaseui_status_fmt">Firebase User: %s</string>
+    <string name="firebaseui_title_text">FirebaseUI Auth</string>
+
+    <string name="id_fmt">User ID: %s</string>
+    <string name="email_fmt">Email: %s</string>
+    <string name="enter_details">Your Details:</string>
+    <string name="logout">Log Out</string>
+    <string name="title_activity_new_user">NewUser</string>
+    <string name="enter_fname">Enter First Name</string>
+    <string name="enter_lname">Enter Last Name</string>
+    <string name="enter_dispname">Enter your Display Name</string>
+    <string name="cared_for">Cared-For</string>
+    <string name="carer">Carer</string>
+    <string name="carer_stat_choose">Choose your Carer Status:</string>
+    <string name="User_Tag">Users</string>
+    <string name="Messages_Tag">Messages</string>
+    <string name="usr_dispname">username</string>
+    <string name="usr_fname">fname</string>
+    <string name="usr_lname">lname</string>
+    <string name="usr_caringstat">caringStat</string>
+    <string name="usr_mobNum">mobNum</string>
+    <string name="enter_carerdispname">Enter Carer Display Name</string>
+    <string name="title_activity_friends_list">FriendsListActivity</string>
+    <string name="msg_time_sent">timeSent</string>
+    <string name="msg_recv">RECV_ID</string>
+    <string name="usr_uid">uid</string>
+    <string name="title_add_new_friend">Add a Friend</string>
+    <string name="enter_friend_code">Enter Friend Code</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Slunk</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_cal">Calendar</string>
+    <string name="nav_friends">Friends</string>
+    <string name="nav_call">Calling</string>
+    <string name="nav_mydetails">My Details</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_start">Start Navigating</string>
+    <string name="msg_recvrID">recverID</string>
+    <string name="msg_senderID">senderID</string>
+    <string name="msg_message">message</string>
+    <string name="friend_code_hint">Friend Phone Num</string>
+    <string name="AddFriend">Add a Friend</string>
+    <string name="user_code_template">This will be the User Code</string>
+    <string name="instruct_add_other_user">To add another user, enter their user code below and hit \"+\"</string>
+    <string name="ins_add_you">Your friend must also add your code, which is:</string>
+    <string name="usr_friends">friends</string>
+    <string name="Friends_Tag">Friends</string>
+
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="transport_id" translatable="false">123</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">sbannigan@student.unimelb.edu.au</string>
+    <string name="firebase_password" translatable="false">samantha</string>
+    <string name="toast_friend_sent_req">Friend Request Sent!</string>
+    <string name="toast_friends_add_self_err">You can\'t add yourself!</string>
+    <string name="toast_friends_already_added">You\'ve already added this user!</string>
+    <string name="toast_friends_no_user">No user with that phone number was found.</string>
+    <string name="toast_user_err">Error getting user value</string>
+    <string name="toast_message_err">Error getting message value</string>
+    <string name="string_date_default">Date</string>
+    <string name="string_create_new_event">Create New Event</string>
+    <string name="title_activity_friends_list2">FriendsListActivity2</string>
+    <string name="title_friends">Friends</string>
+    <string name="nav_home">Home</string>
+    <string name="title_activity_chat_room2">ChatRoomActivity2</string>
+</resources>
