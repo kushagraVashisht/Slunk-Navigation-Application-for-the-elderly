@@ -142,7 +142,7 @@ public class MainActivity extends BaseActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Mapbox.getInstance(this, "pk.eyJ1Ijoia3VzaGFncmF2YXNoaXNodCIsImEiOiJjam4ydWQwaTkwOG1hM3ZwaTh1MW03cTBwIn0.TfAH1A2i1QI_nOWDfaWm-w");
+        Mapbox.getInstance(this, "YOUR MAPBOX MAPS ANDROID API KEY HERE");
         setContentView(R.layout.activity_main);
         mapView = (MapView)findViewById(R.id.mapView);
         mapView.onCreate(savedInstanceState);
